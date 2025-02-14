@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi there! I'm Vandita!<br>🚀 Currently diving into new technologies to stay ahead of the curve and remain up to date with the ever-evolving tech landscape.<br>💻 A tech enthusiast with a strong background in software and web development (MERN stack, Java, Python) and cloud support, focusing on optimizing systems and solving real-world problems.<br>📊 I'm always looking to innovate and build impactful solutions.<br><br>🔧 My projects range from AI chatbots to Traffic Management Systems and I’m always up for a challenge!<br><br>When I’m not coding, you’ll find me studying new tech, experimenting with new frameworks, or working on impactful projects. I’m constantly striving to improve my skills, and I’m excited to connect with people in the tech world!
+👋 Hi there! I'm Vandita!<br>🚀 Currently diving into new technologies to stay ahead of the curve and remain up to date with the ever-evolving tech landscape.<br>💻 A tech enthusiast with a strong background in software and web development (MERN stack, Java, GoLang) and cloud support, focusing on optimizing systems and solving real-world problems.<br>📊 I'm always looking to innovate and build impactful solutions.<br><br>🔧 My projects range from AI chatbots to Traffic Management Systems and I’m always up for a challenge!<br><br>When I’m not coding, you’ll find me studying new tech, experimenting with new frameworks, or working on impactful projects. I’m constantly striving to improve my skills, and I’m excited to connect with people in the tech world!
 
 
 ## 🌐 Socials:
